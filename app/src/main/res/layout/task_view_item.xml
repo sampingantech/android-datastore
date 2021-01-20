@@ -54,6 +54,7 @@
         app:layout_constraintTop_toBottomOf="@id/priority"
         app:layout_constraintEnd_toEndOf="parent"
         app:drawableStartCompat="@drawable/ic_baseline_calendar_today_24"
+        android:textColor="@color/black"
         android:drawablePadding="4dp"
         tools:text="2020-05-06" />
 </androidx.constraintlayout.widget.ConstraintLayout>
